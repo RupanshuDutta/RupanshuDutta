@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupanshudutta" alt="rupanshudutta" /></a> </p>
 
-- 🌱 I’m currently learning **Js, C++**
+- 🌱 I’m currently learning **ReactJs, DSA**
 
 - 📫 How to reach me **rupanshudutta555@gmail.com**
 
