@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **ReactJs, DSA**
 
-- 📫 How to reach me **rupanshudutta555@gmail.com**
+- 📫 How to reach me **dutta.rupanshuiembca2025@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ Fun fact **I think i'm lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
